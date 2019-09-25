@@ -164,4 +164,10 @@
             "t1btYJifKAURW2T7kAMc6nZcs5n1LVwKYks"
         ]   
     }
+      "poolName": "ZombiePool",
+        "url": "http://zombie-pool.com",
+        "searchStrings": [
+            "t1eG7hhqfZ35zvZfmzigXBjfvEARdvYMyaB"
+        ]   
+    }
 ]
